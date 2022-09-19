@@ -1,0 +1,1 @@
+const peliculas = ["Shrek","Captain America","Spider-Man","Iron Man","Avengers"];
